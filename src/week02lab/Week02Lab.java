@@ -15,7 +15,8 @@ public class Week02Lab {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code applicatisn logic here
+        System.err.println("hello week2Lab");
     }
     
 }
